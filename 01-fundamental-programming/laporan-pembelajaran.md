@@ -58,23 +58,23 @@ Mempelajari cara mengidentifikasi kesalahan pada program, kemudian mencoba menan
 
 **1. Latihan Variabel dan Konstanta**
 
-![Latihan Variabel dan Konstanta](dokumentasi/variabel-konstanta.png)
+![Latihan Variabel dan Konstanta](documentation/variabel-konstanta.png)
 
 **2. Latihan Tipe Data**
 
-![Latihan Tipe Data](dokumentasi/tipe-data.png)
+![Latihan Tipe Data](documentation/tipe-data.png)
 
 **3. Latihan Operator**
 
-![Latihan Operator](dokumentasi/operator.png)
+![Latihan Operator](documentation/operator.png)
 
 **4. Praktik Try-Catch**
 
-![Praktik Try-Catch](dokumentasi/try-catch.png)
+![Praktik Try-Catch](documentation/try-catch.png)
 
 **5. Praktik Throw dan Finally**
 
-![Praktik Throw dan Finally](dokumentasi/throw-finally.png)
+![Praktik Throw dan Finally](documentation/throw-finally.png)
 
 ## 4. Rekapitulasi Konsep Teknis
 
