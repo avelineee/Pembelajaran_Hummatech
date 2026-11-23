@@ -56,17 +56,25 @@ Mempelajari cara mengidentifikasi kesalahan pada program, kemudian mencoba menan
 
 ### 3.5 Dokumentasi Praktik
 
-Dokumentasi berupa screenshot kode dan hasil eksekusi program:
+**1. Latihan Variabel dan Konstanta**
 
-| No. | Dokumentasi | Bukti Praktik |
-|---|---|---|
-| 1 | Latihan variabel dan konstanta | ![Screenshot](dokumentasi/variabel-konstanta.png) |
-| 2 | Latihan tipe data dan hasil `var_dump()` | ![Screenshot](dokumentasi/tipe-data.png) |
-| 3 | Latihan operator dan hasil eksekusi | ![Screenshot](dokumentasi/operator.png) |
-| 4 | Praktik `try-catch` dan hasil penanganan exception | ![Screenshot](dokumentasi/try-catch.png) |
-| 5 | Praktik `throw`, `getMessage()`, dan `finally` | ![Screenshot](dokumentasi/throw-finally.png) |
+![Latihan Variabel dan Konstanta](dokumentasi/variabel-konstanta.png)
 
-*Catatan: Sesuaikan nama dan lokasi gambar dengan file screenshot yang benar-benar kamu simpan.*
+**2. Latihan Tipe Data**
+
+![Latihan Tipe Data](dokumentasi/tipe-data.png)
+
+**3. Latihan Operator**
+
+![Latihan Operator](dokumentasi/operator.png)
+
+**4. Praktik Try-Catch**
+
+![Praktik Try-Catch](dokumentasi/try-catch.png)
+
+**5. Praktik Throw dan Finally**
+
+![Praktik Throw dan Finally](dokumentasi/throw-finally.png)
 
 ## 4. Rekapitulasi Konsep Teknis
 
